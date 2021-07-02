@@ -21,7 +21,7 @@
   }
   
   #topbar .contact-info i {
-    color: #FFA900;
+    color: #B23CFD;
     line-height: 0;
     margin-right: 5px;
   }
@@ -45,6 +45,9 @@
       width: 100px;
       height: 100%;
   }
+  .logo:hover{
+    transform: scale(1.3);
+}
 .landing-page{
   width: 100%;
   height: 65vh;
@@ -145,9 +148,9 @@
 }
 .call-to-action:hover{
   color: #fff;
-  border: 2px solid #FFA900;
+  border: 2px solid #B23CFD;
 
-  background: #FFA900;
+  background: #B23CFD;
 }
 .text{
   padding: 10px;
@@ -202,7 +205,7 @@
 }
 .select-car{
   border: 2px solid #fff;
-  background-color: #FFA900;
+  background-color: #B23CFD;
   color: #000;
   padding: 20px;
 }
@@ -222,7 +225,7 @@
 .title{
   text-transform: capitalize;
   font-weight: bold;
-  color: #FFA900;
+  color: #B23CFD;
 }
 
 
@@ -235,13 +238,13 @@
   padding: 5px 10px;
   transition: 0.4s linear;
   margin: 2px;
-  background-color: #FFA900;
+  background-color: #B23CFD;
   text-align: center;
 }
 .Button:hover{
-  color: #FFA900;
+  color: #B23CFD;
   background: #fff;
-  border: 2px solid #FFA900;
+  border: 2px solid #B23CFD;
 
 }
 .cta-btn {
@@ -260,8 +263,8 @@
 }
 
  .cta-btn:hover {
-  background: #FFA900;
-  border: 2px solid #FFA900;
+  background: #B23CFD;
+  border: 2px solid #B23CFD;
   color: #fff;
 
 }
@@ -407,7 +410,7 @@ section {
   margin: 0 auto;
   width: 64px;
   height: 64px;
-  background: #FFA900;
+  background: #B23CFD;
   transition: all .3s ease-out 0s;
   display: flex;
   align-items: center;
@@ -428,7 +431,7 @@ section {
   top: -8px;
   height: 100%;
   width: 100%;
-  background: #ffaa009d;
+  background: #c975fd;
   transition: all .3s ease-out 0s;
   transform: translateZ(-1px);
 }
@@ -450,8 +453,8 @@ section {
 }
 
 .services .icon-box:hover {
-  background: #FFA900;
-  border-color: #FFA900;
+  background: #B23CFD;
+  border-color: #B23CFD;
   padding: 70px 20px 90px 20px;
 }
 
@@ -460,11 +463,11 @@ section {
 }
 
 .services .icon-box:hover .icon i {
-  color: #FFA900;
+  color: #B23CFD;
 }
 
 .services .icon-box:hover .icon::before {
-  background: #ffbc37;
+  background: #be5dfa;
 }
 
 .services .icon-box:hover h4 a, .services .icon-box:hover p {
@@ -483,10 +486,10 @@ section {
 
 .contact .info-box i {
   font-size: 32px;
-  color: #FFA900;
+  color: #B23CFD;
   border-radius: 50%;
   padding: 8px;
-  border: 2px dotted #FFA900;
+  border: 2px dotted #B23CFD;
 }
 
 .contact .info-box h3 {
@@ -511,7 +514,7 @@ section {
 .contact .php-email-form .error-message {
   display: none;
   color: #fff;
-  background: #FFA900;
+  background: #B23CFD;
   text-align: left;
   padding: 15px;
   font-weight: 600;
@@ -557,7 +560,7 @@ section {
 }
 
 .contact .php-email-form input::focus, .contact .php-email-form textarea::focus {
-  background-color: #FFA900;
+  background-color: #B23CFD;
 }
 
 .contact .php-email-form input {
@@ -569,7 +572,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #FFA900;
+  background: #B23CFD;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -577,7 +580,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #FFA900;
+  background: #B23CFD;
 }
 
 
@@ -657,7 +660,7 @@ details[open] summary ~ * {
   margin-bottom: 15px;
   background: #191919;
   color: #fff;
-  border-top: 4px solid #FFA900;
+  border-top: 4px solid #B23CFD;
   text-align: center;
   padding: 30px 20px;
 }
@@ -693,7 +696,7 @@ details[open] summary ~ * {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #FFA900;
+  background: #B23CFD;
   color: #fff;
   text-decoration: none;
 }
@@ -718,7 +721,7 @@ details[open] summary ~ * {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #FFA900;
+  color: #B23CFD;
   font-size: 18px;
   line-height: 1;
 }
@@ -741,7 +744,7 @@ details[open] summary ~ * {
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: #FFA900;
+  color: #B23CFD;
 }
 
 #footer .footer-top .footer-newsletter form {
@@ -767,14 +770,14 @@ details[open] summary ~ * {
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #FFA900;
+  background: #B23CFD;
   color: #fff;
   transition: 0.3s;
   border-radius: 4;
 }
 
 #footer .footer-top .footer-newsletter form input[type="submit"]:hover {
-  background: #FFA900;
+  background: #B23CFD;
 }
 
 #footer .copyright {
@@ -791,7 +794,7 @@ details[open] summary ~ * {
 }
 
 #footer .credits a {
-  color: #FFA900;
+  color: #B23CFD;
 }
 
 @media (max-width: 575px) {
